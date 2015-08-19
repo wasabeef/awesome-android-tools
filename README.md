@@ -4,7 +4,7 @@ A curated list of awesome Android Tools.
 ## Intellij Plugin
 - [JRebel for Android](http://zeroturnaround.com/software/jrebel-for-android/) - Live Android Development. Develop your Android applications in real time.
 
-- [Android File Grouping Plugin](httphttps://github.com/dmytrodanylyk/folding-plugin) - This plugin is very helpful in Android Development. It can display your files as a group of different folders in project structure view.
+- [Android File Grouping Plugin](https://github.com/dmytrodanylyk/folding-plugin) - This plugin is very helpful in Android Development. It can display your files as a group of different folders in project structure view.
 
 - [Dagger IntelliJ Plugin](https://github.com/square/dagger-intellij-plugin) - An IntelliJ IDEA plugin for Dagger which provides insight into how injections and providers are used.
 

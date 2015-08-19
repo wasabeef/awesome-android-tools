@@ -40,12 +40,12 @@ A curated list of awesome Android Tools.
 ## Emulator
 - [Genymotion](https://www.genymotion.com/) - Genymotion is a fast and easy-to-use Android emulator to run and test your Android apps.
 
-## CLI Tools
+## CLI Tool
 - [dex-method-counts](https://github.com/mihaip/dex-method-counts) -  Command-line tool to count per-package methods in Android .dex files.
 
 - [Apptize](https://appetize.io/) - Stream iOS & Android Simulators in the Browser
 
-## GUI Tools
+## GUI Tool
 - [Android tool for mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, APK installations for Android phones and smartwatches connected to your Mac.
 
 ## Web Service

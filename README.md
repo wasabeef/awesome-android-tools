@@ -12,6 +12,8 @@ A curated list of awesome Android Tools.
 
 - [Otto IntelliJ Plugin](https://github.com/square/otto-intellij-plugin) - An IntelliJ IDEA plugin to navigate between events posted by Otto.
 
+- [ButterKnifeZelezny](https://github.com/avast/android-butterknife-zelezny) - Simple plug-in for Android Studio/IDEA that allows one-click creation of Butterknife view injections.
+
 - [eventbus-intellij-plugin](https://github.com/kgmyshin/eventbus-intellij-plugin) - Plugin to navigate between events posted by EventBus.
 
 - [eventbus3-intellij-plugin](https://github.com/kgmyshin/eventbus3-intellij-plugin) - Plugin to navigate between events posted by EventBus.

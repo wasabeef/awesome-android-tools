@@ -50,6 +50,8 @@ A curated list of awesome Android Tools.
 
 - [SDK Manager Plugin](https://github.com/JakeWharton/sdk-manager-plugin) - Gradle plugin which downloads and manages your Android SDK.
 
+- [Hugo](https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds.
+
 ## Emulator
 - [Genymotion](https://www.genymotion.com/) - Genymotion is a fast and easy-to-use Android emulator to run and test your Android apps.
 

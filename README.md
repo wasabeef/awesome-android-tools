@@ -25,9 +25,9 @@ A curated list of awesome Android Tools.
 
 - [Android Material Design Icon Generator Plugin](https://github.com/konifar/android-material-design-icon-generator-plugin) - This plugin help you to set material design icon to your project.
 
-- [Android Selector Chapek ](https://github.com/inmite/android-selector-chapek) - Android Studio plugin which automatically generates drawable selectors from appropriately named resources
+- [Android Selector Chapek](https://github.com/inmite/android-selector-chapek) - Android Studio plugin which automatically generates drawable selectors from appropriately named resources
 
-- [Restclient-idea-plugin](https://code.google.com/p/restclient-idea-plugin/) - Simulation HTTP requests and test the communication with server 
+- [Restclient-idea-plugin](https://code.google.com/p/restclient-idea-plugin/) - Simulation HTTP requests and test the communication with server
 
 - [Android Strings.xml Tools](https://github.com/constantine-ivanov/strings-xml-tools) - A plugin for Intellij IDEA or Android studio which eases management of strings in multiple localization files in Android projects.
 
@@ -50,6 +50,9 @@ A curated list of awesome Android Tools.
 
 ## Emulator
 - [Genymotion](https://www.genymotion.com/) - Genymotion is a fast and easy-to-use Android emulator to run and test your Android apps.
+
+- [Xamarin Android Player](https://xamarin.com/android-player) - Simulate, debug, demo or run Android apps in
+our fast and hassle-free environment.
 
 ## CLI Tool
 - [dex-method-counts](https://github.com/mihaip/dex-method-counts) -  Command-line tool to count per-package methods in Android .dex files.

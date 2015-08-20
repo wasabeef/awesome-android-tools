@@ -12,6 +12,8 @@ A curated list of awesome Android Tools.
 
 - [Otto IntelliJ Plugin](https://github.com/square/otto-intellij-plugin) - An IntelliJ IDEA plugin to navigate between events posted by Otto.
 
+- [ButterKnifeZelezny](https://github.com/avast/android-butterknife-zelezny) - Simple plug-in for Android Studio/IDEA that allows one-click creation of Butterknife view injections.
+
 - [eventbus-intellij-plugin](https://github.com/kgmyshin/eventbus-intellij-plugin) - Plugin to navigate between events posted by EventBus.
 
 - [eventbus3-intellij-plugin](https://github.com/kgmyshin/eventbus3-intellij-plugin) - Plugin to navigate between events posted by EventBus.
@@ -23,6 +25,8 @@ A curated list of awesome Android Tools.
 - [Android Drawable Importer Plugin](https://github.com/winterDroid/android-drawable-importer-intellij-plugin) - Adds an option to IntelliJ to import drawables in different resolutions from AndroidIcons, own "drawable repos" and scale a certain image down/up to the defined resolutions.
 
 - [Android Material Design Icon Generator Plugin](https://github.com/konifar/android-material-design-icon-generator-plugin) - This plugin help you to set material design icon to your project.
+
+- [Android Strings.xml Tools](https://github.com/constantine-ivanov/strings-xml-tools) - A plugin for Intellij IDEA or Android studio which eases management of strings in multiple localization files in Android projects.
 
 ## Gradle Plugin
 - [android-apt](https://bitbucket.org/hvisser/android-apt) - The android-apt plugin assists in working with annotation processors in combination with Android Studio.

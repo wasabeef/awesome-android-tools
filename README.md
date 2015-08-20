@@ -24,6 +24,10 @@ A curated list of awesome Android Tools.
 
 - [Android Material Design Icon Generator Plugin](https://github.com/konifar/android-material-design-icon-generator-plugin) - This plugin help you to set material design icon to your project.
 
+- [Android Selector Chapek ](https://github.com/inmite/android-selector-chapek) - Android Studio plugin which automatically generates drawable selectors from appropriately named resources
+
+- [Android ButterKnife Zeleny ](https://github.com/avast/android-butterknife-zelezny) - Android Studio plug-in for generating ButterKnife injections from selected layout XML
+
 ## Gradle Plugin
 - [android-apt](https://bitbucket.org/hvisser/android-apt) - The android-apt plugin assists in working with annotation processors in combination with Android Studio.
 

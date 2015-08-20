@@ -48,6 +48,8 @@ A curated list of awesome Android Tools.
 
 - [Wire Gradle Plugin](https://github.com/square/wire-gradle-plugin) - A Gradle plugin for generating Java code for your protocol buffer definitions with Wire.
 
+- [SDK Manager Plugin](https://github.com/JakeWharton/sdk-manager-plugin) - Gradle plugin which downloads and manages your Android SDK.
+
 ## Emulator
 - [Genymotion](https://www.genymotion.com/) - Genymotion is a fast and easy-to-use Android emulator to run and test your Android apps.
 
@@ -59,8 +61,12 @@ our fast and hassle-free environment.
 
 - [Apptize](https://appetize.io/) - Stream iOS & Android Simulators in the Browser
 
+- [pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
+
 ## GUI Tool
 - [Android tool for mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, APK installations for Android phones and smartwatches connected to your Mac.
+
+- [Telecine](https://github.com/JakeWharton/Telecine) - Record full-resolution video on your Android devices.
 
 ## Web Service
 - [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.

@@ -27,7 +27,7 @@ A curated list of awesome Android Tools.
 
 - [Android Selector Chapek ](https://github.com/inmite/android-selector-chapek) - Android Studio plugin which automatically generates drawable selectors from appropriately named resources
 
-- [Restclient-idea-plugin](https://code.google.com/p/restclient-idea-plugin/) - Simulation HTTP requests and test the request with server 
+- [Restclient-idea-plugin](https://code.google.com/p/restclient-idea-plugin/) - Simulation HTTP requests and test the communication with server 
 
 - [Android Strings.xml Tools](https://github.com/constantine-ivanov/strings-xml-tools) - A plugin for Intellij IDEA or Android studio which eases management of strings in multiple localization files in Android projects.
 

@@ -56,10 +56,10 @@ A curated list of awesome Android Tools.
 - [Xamarin Android Player](https://xamarin.com/android-player) - Simulate, debug, demo or run Android apps in
 our fast and hassle-free environment.
 
+- [Apptize](https://appetize.io/) - Stream iOS & Android Simulators in the Browser
+
 ## CLI Tool
 - [dex-method-counts](https://github.com/mihaip/dex-method-counts) -  Command-line tool to count per-package methods in Android .dex files.
-
-- [Apptize](https://appetize.io/) - Stream iOS & Android Simulators in the Browser
 
 - [pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
 
@@ -74,8 +74,6 @@ our fast and hassle-free environment.
 - [Android Interpolation](https://dl.dropboxusercontent.com/u/6685256/AndroidInterpolation/index.html)
 
 - [APK method count](http://inloop.github.io/apk-method-count/) - output per-package method counts.
-
-- [Apptize](https://appetize.io/) - Stream iOS & Android Simulators in the Browser
 
 ## CI (Continuous Integration)
 

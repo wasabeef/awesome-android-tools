@@ -28,6 +28,8 @@ A curated list of awesome Android Tools.
 
 - [Android Strings.xml Tools](https://github.com/constantine-ivanov/strings-xml-tools) - A plugin for Intellij IDEA or Android studio which eases management of strings in multiple localization files in Android projects.
 
+- [android-selector-intellij-plugin](https://github.com/importre/android-selector-intellij-plugin) - Generate selectors for background drawable.
+
 ## Gradle Plugin
 - [android-apt](https://bitbucket.org/hvisser/android-apt) - The android-apt plugin assists in working with annotation processors in combination with Android Studio.
 

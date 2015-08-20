@@ -33,6 +33,8 @@ A curated list of awesome Android Tools.
 
 - [android-selector-intellij-plugin](https://github.com/importre/android-selector-intellij-plugin) - Generate selectors for background drawable.
 
+- [GsonFormat](https://github.com/zzz40500/GsonFormat) - Quickly to convert a JSON string to an entity class
+
 ## Gradle Plugin
 - [android-apt](https://bitbucket.org/hvisser/android-apt) - The android-apt plugin assists in working with annotation processors in combination with Android Studio.
 

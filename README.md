@@ -2,7 +2,6 @@
 A curated list of awesome Android Tools.
 
 
-
 ## Intellij Plugin
 - [JRebel for Android](http://zeroturnaround.com/software/jrebel-for-android/) - Live Android Development. Develop your Android applications in real time.
 
@@ -11,6 +10,8 @@ A curated list of awesome Android Tools.
 - [Dagger IntelliJ Plugin](https://github.com/square/dagger-intellij-plugin) - An IntelliJ IDEA plugin for Dagger which provides insight into how injections and providers are used.
 
 - [Otto IntelliJ Plugin](https://github.com/square/otto-intellij-plugin) - An IntelliJ IDEA plugin to navigate between events posted by Otto.
+
+- [ButterKnifeZelezny](https://github.com/avast/android-butterknife-zelezny) - Simple plug-in for Android Studio/IDEA that allows one-click creation of Butterknife view injections.
 
 - [eventbus-intellij-plugin](https://github.com/kgmyshin/eventbus-intellij-plugin) - Plugin to navigate between events posted by EventBus.
 
@@ -26,7 +27,9 @@ A curated list of awesome Android Tools.
 
 - [Android Selector Chapek ](https://github.com/inmite/android-selector-chapek) - Android Studio plugin which automatically generates drawable selectors from appropriately named resources
 
-- [Android ButterKnife Zeleny ](https://github.com/avast/android-butterknife-zelezny) - Android Studio plug-in for generating ButterKnife injections from selected layout XML
+- [Android Strings.xml Tools](https://github.com/constantine-ivanov/strings-xml-tools) - A plugin for Intellij IDEA or Android studio which eases management of strings in multiple localization files in Android projects.
+
+- [android-selector-intellij-plugin](https://github.com/importre/android-selector-intellij-plugin) - Generate selectors for background drawable.
 
 ## Gradle Plugin
 - [android-apt](https://bitbucket.org/hvisser/android-apt) - The android-apt plugin assists in working with annotation processors in combination with Android Studio.

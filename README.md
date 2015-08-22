@@ -36,6 +36,8 @@ A curated list of awesome Android Tools.
 
 - [GsonFormat](https://github.com/zzz40500/GsonFormat) - Quickly to convert a JSON string to an entity class
 
+- [LayoutCast](https://github.com/mmin18/LayoutCast) - Cast android code and resource changes to the running application through ADB.
+
 ## Gradle Plugin
 - [android-apt](https://bitbucket.org/hvisser/android-apt) - The android-apt plugin assists in working with annotation processors in combination with Android Studio.
 
@@ -52,8 +54,6 @@ A curated list of awesome Android Tools.
 - [Wire Gradle Plugin](https://github.com/square/wire-gradle-plugin) - A Gradle plugin for generating Java code for your protocol buffer definitions with Wire.
 
 - [SDK Manager Plugin](https://github.com/JakeWharton/sdk-manager-plugin) - Gradle plugin which downloads and manages your Android SDK.
-
-- [LayoutCast](https://github.com/mmin18/LayoutCast) - Cast android code and resource changes to the running application through ADB.
 
 ## Emulator
 - [Genymotion](https://www.genymotion.com/) - Genymotion is a fast and easy-to-use Android emulator to run and test your Android apps.

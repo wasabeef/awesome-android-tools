@@ -1,6 +1,7 @@
 # List of Android Tools
-A curated list of awesome Android Tools.
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/wasabeef/awesome-android-tools)
 
+A curated list of awesome Android Tools.
 
 ## Intellij Plugin
 - [JRebel for Android](http://zeroturnaround.com/software/jrebel-for-android/) - Live Android Development. Develop your Android applications in real time.
@@ -25,9 +26,9 @@ A curated list of awesome Android Tools.
 
 - [Android Material Design Icon Generator Plugin](https://github.com/konifar/android-material-design-icon-generator-plugin) - This plugin help you to set material design icon to your project.
 
-- [Android Selector Chapek ](https://github.com/inmite/android-selector-chapek) - Android Studio plugin which automatically generates drawable selectors from appropriately named resources
+- [Android Selector Chapek](https://github.com/inmite/android-selector-chapek) - Android Studio plugin which automatically generates drawable selectors from appropriately named resources
 
-- [Restclient-idea-plugin](https://code.google.com/p/restclient-idea-plugin/) - Simulation HTTP requests and test the communication with server 
+- [Restclient-idea-plugin](https://code.google.com/p/restclient-idea-plugin/) - Simulation HTTP requests and test the communication with server
 
 - [Android Strings.xml Tools](https://github.com/constantine-ivanov/strings-xml-tools) - A plugin for Intellij IDEA or Android studio which eases management of strings in multiple localization files in Android projects.
 
@@ -50,19 +51,27 @@ A curated list of awesome Android Tools.
 
 - [Wire Gradle Plugin](https://github.com/square/wire-gradle-plugin) - A Gradle plugin for generating Java code for your protocol buffer definitions with Wire.
 
-- [LayoutCast](https://github.com/mmin18/LayoutCast) - Cast android code and resource changes to the running application through ADB.
+- [SDK Manager Plugin](https://github.com/JakeWharton/sdk-manager-plugin) - Gradle plugin which downloads and manages your Android SDK.
 
+- [LayoutCast](https://github.com/mmin18/LayoutCast) - Cast android code and resource changes to the running application through ADB.
 
 ## Emulator
 - [Genymotion](https://www.genymotion.com/) - Genymotion is a fast and easy-to-use Android emulator to run and test your Android apps.
 
-## CLI Tool
-- [dex-method-counts](https://github.com/mihaip/dex-method-counts) -  Command-line tool to count per-package methods in Android .dex files.
+- [Xamarin Android Player](https://xamarin.com/android-player) - Simulate, debug, demo or run Android apps in
+our fast and hassle-free environment.
 
 - [Apptize](https://appetize.io/) - Stream iOS & Android Simulators in the Browser
 
+## CLI Tool
+- [dex-method-counts](https://github.com/mihaip/dex-method-counts) -  Command-line tool to count per-package methods in Android .dex files.
+
+- [pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
+
 ## GUI Tool
 - [Android tool for mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, APK installations for Android phones and smartwatches connected to your Mac.
+
+- [Telecine](https://github.com/JakeWharton/Telecine) - Record full-resolution video on your Android devices.
 
 ## Web Service
 - [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.
@@ -70,8 +79,6 @@ A curated list of awesome Android Tools.
 - [Android Interpolation](https://dl.dropboxusercontent.com/u/6685256/AndroidInterpolation/index.html)
 
 - [APK method count](http://inloop.github.io/apk-method-count/) - output per-package method counts.
-
-- [Apptize](https://appetize.io/) - Stream iOS & Android Simulators in the Browser
 
 ## CI (Continuous Integration)
 

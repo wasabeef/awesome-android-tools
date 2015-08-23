@@ -36,6 +36,8 @@ A curated list of awesome Android Tools.
 
 - [GsonFormat](https://github.com/zzz40500/GsonFormat) - Quickly to convert a JSON string to an entity class
 
+- [LayoutCast](https://github.com/mmin18/LayoutCast) - Cast android code and resource changes to the running application through ADB.
+
 ## Gradle Plugin
 - [android-apt](https://bitbucket.org/hvisser/android-apt) - The android-apt plugin assists in working with annotation processors in combination with Android Studio.
 

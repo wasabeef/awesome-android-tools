@@ -73,6 +73,8 @@ our fast and hassle-free environment.
 
 - [Telecine](https://github.com/JakeWharton/Telecine) - Record full-resolution video on your Android devices.
 
+- [ShowJava](https://github.com/niranjan94/show-java) - An apk decompiler for android.
+
 ## Web Service
 - [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.
 

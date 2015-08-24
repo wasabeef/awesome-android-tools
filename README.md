@@ -80,7 +80,9 @@ our fast and hassle-free environment.
 
 - [Android Interpolation](https://dl.dropboxusercontent.com/u/6685256/AndroidInterpolation/index.html)
 
-- [APK method count](http://inloop.github.io/apk-method-count/) - output per-package method counts.
+- [APK method count](http://inloop.github.io/apk-method-count/) - output per-package method counts.  
+
+- [dryrun](https://github.com/cesarferreira/dryrun) - Quickly try the demo project of any Android Library
 
 ## CI (Continuous Integration)
 

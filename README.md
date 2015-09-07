@@ -113,5 +113,5 @@ our fast and hassle-free environment.
 
 ## Chrome Plugin
 
-- [LetMeExplainYou](https://chrome.google.com/webstore/detail/letmeexplainyou/galbanndfflkpahaeilhhnojpdbjeoae) - Let me explain you this new Chrome plugin from Google Developer Advocate Nick Butcher. It enhances the Android developer documentation. That is all.
+- ![](./art/square_letmeexplainyou.jpg)[LetMeExplainYou](https://chrome.google.com/webstore/detail/letmeexplainyou/galbanndfflkpahaeilhhnojpdbjeoae) - Let me explain you this new Chrome plugin from Google Developer Advocate Nick Butcher. It enhances the Android developer documentation. That is all.
 

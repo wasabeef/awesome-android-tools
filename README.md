@@ -68,6 +68,8 @@ our fast and hassle-free environment.
 
 - [pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
 
+- [vectalign](https://github.com/bonnyfone/vectalign) - Tool for create complex morphing animations using VectorDrawables (allows morphing between any pair of SVG image)
+
 ## GUI Tool
 - [Android tool for mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, APK installations for Android phones and smartwatches connected to your Mac.
 
@@ -105,4 +107,9 @@ our fast and hassle-free environment.
 
 ## Monitoring
 
-- [New Relic](https://newrelic.com/)
+- [New Relic](https://newrelic.com/) 
+
+## Chrome Plugin
+
+- [LetMeExplainYou](https://chrome.google.com/webstore/detail/letmeexplainyou/galbanndfflkpahaeilhhnojpdbjeoae) - Let me explain you this new Chrome plugin from Google Developer Advocate Nick Butcher. It enhances the Android developer documentation. That is all.
+

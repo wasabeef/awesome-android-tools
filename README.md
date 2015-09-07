@@ -1,6 +1,7 @@
 # List of Android Tools
-A curated list of awesome Android Tools.
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/wasabeef/awesome-android-tools)
 
+A curated list of awesome Android Tools.
 
 ## Intellij Plugin
 - [JRebel for Android](http://zeroturnaround.com/software/jrebel-for-android/) - Live Android Development. Develop your Android applications in real time.
@@ -33,6 +34,10 @@ A curated list of awesome Android Tools.
 
 - [android-selector-intellij-plugin](https://github.com/importre/android-selector-intellij-plugin) - Generate selectors for background drawable.
 
+- [GsonFormat](https://github.com/zzz40500/GsonFormat) - Quickly to convert a JSON string to an entity class
+
+- [LayoutCast](https://github.com/mmin18/LayoutCast) - Cast android code and resource changes to the running application through ADB.
+
 ## Gradle Plugin
 - [android-apt](https://bitbucket.org/hvisser/android-apt) - The android-apt plugin assists in working with annotation processors in combination with Android Studio.
 
@@ -58,26 +63,30 @@ A curated list of awesome Android Tools.
 - [Xamarin Android Player](https://xamarin.com/android-player) - Simulate, debug, demo or run Android apps in
 our fast and hassle-free environment.
 
+- [Apptize](https://appetize.io/) - Stream iOS & Android Simulators in the Browser
+
 ## CLI Tool
 - [dex-method-counts](https://github.com/mihaip/dex-method-counts) -  Command-line tool to count per-package methods in Android .dex files.
 
-- [Apptize](https://appetize.io/) - Stream iOS & Android Simulators in the Browser
-
 - [pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
+
+- [vectalign](https://github.com/bonnyfone/vectalign) - Tool for create complex morphing animations using VectorDrawables (allows morphing between any pair of SVG image)
 
 ## GUI Tool
 - [Android tool for mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, APK installations for Android phones and smartwatches connected to your Mac.
 
 - [Telecine](https://github.com/JakeWharton/Telecine) - Record full-resolution video on your Android devices.
 
+- [ShowJava](https://github.com/niranjan94/show-java) - An apk decompiler for android.
+
 ## Web Service
 - [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.
 
 - [Android Interpolation](https://dl.dropboxusercontent.com/u/6685256/AndroidInterpolation/index.html)
 
-- [APK method count](http://inloop.github.io/apk-method-count/) - output per-package method counts.
+- [APK method count](http://inloop.github.io/apk-method-count/) - output per-package method counts.  
 
-- [Apptize](https://appetize.io/) - Stream iOS & Android Simulators in the Browser
+- [dryrun](https://github.com/cesarferreira/dryrun) - Quickly try the demo project of any Android Library
 
 ## CI (Continuous Integration)
 
@@ -100,4 +109,9 @@ our fast and hassle-free environment.
 
 ## Monitoring
 
-- [New Relic](https://newrelic.com/)
+- [New Relic](https://newrelic.com/) 
+
+## Chrome Plugin
+
+- [LetMeExplainYou](https://chrome.google.com/webstore/detail/letmeexplainyou/galbanndfflkpahaeilhhnojpdbjeoae) - Let me explain you this new Chrome plugin from Google Developer Advocate Nick Butcher. It enhances the Android developer documentation. That is all.
+

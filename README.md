@@ -72,6 +72,8 @@ our fast and hassle-free environment.
 
 - [vectalign](https://github.com/bonnyfone/vectalign) - Tool for create complex morphing animations using VectorDrawables (allows morphing between any pair of SVG image)
 
+- [QARK](https://github.com/linkedin/qark) - Quick Android Review Kit
+
 ## GUI Tool
 - [Android tool for mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, APK installations for Android phones and smartwatches connected to your Mac.
 

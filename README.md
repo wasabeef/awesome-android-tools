@@ -57,6 +57,9 @@ A curated list of awesome Android Tools.
 
 - [Hugo](https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds.
 
+- [bintray-release](https://github.com/novoda/bintray-release) - A helper for releasing from gradle up to bintray.
+
+
 ## Emulator
 - [Genymotion](https://www.genymotion.com/) - Genymotion is a fast and easy-to-use Android emulator to run and test your Android apps.
 

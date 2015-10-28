@@ -59,6 +59,7 @@ A curated list of awesome Android Tools.
 
 - [bintray-release](https://github.com/novoda/bintray-release) - A helper for releasing from gradle up to bintray.
 
+- [ViewInspector](https://github.com/xfumihiro/ViewInspector) - View Inspection Toolbar for Android Development.
 
 ## Emulator
 - [Genymotion](https://www.genymotion.com/) - Genymotion is a fast and easy-to-use Android emulator to run and test your Android apps.

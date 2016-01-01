@@ -59,7 +59,9 @@ A curated list of awesome Android Tools.
 
 - [bintray-release](https://github.com/novoda/bintray-release) - A helper for releasing from gradle up to bintray.
 
-- [ViewInspector](https://github.com/xfumihiro/ViewInspector) - View Inspection Toolbar for Android Development.
+- [ViewInspector](https://github.com/xfumihiro/ViewInspector) - View Inspection Toolbar for Android Development.  
+
+- [jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo) - Generates Java types from JSON Schema (or example JSON) and annotates those types for data-binding with Jackson 1.x or 2.x, Gson, etc
 
 ## Emulator
 - [Genymotion](https://www.genymotion.com/) - Genymotion is a fast and easy-to-use Android emulator to run and test your Android apps.

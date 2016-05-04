@@ -79,6 +79,8 @@ our fast and hassle-free environment.
 - [QARK](https://github.com/linkedin/qark) - Quick Android Review Kit
 
 - [Android Lint Summary](https://github.com/passy/android-lint-summary) - View your Android lint issues with style.
+ 
+- [ReDex](https://github.com/facebook/redex) -  An Android bytecode (dex) optimizer for APKs by Facebook.
 
 ## GUI Tool
 - [Android tool for mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, APK installations for Android phones and smartwatches connected to your Mac.

@@ -69,6 +69,8 @@ our fast and hassle-free environment.
 
 - [Apptize](https://appetize.io/) - Stream iOS & Android Simulators in the Browser
 
+- [Limbar](https://limbar.io) - Stream Android Emulator in the browser and use them locally via ADB tunnel
+
 ## CLI Tool
 - [dex-method-counts](https://github.com/mihaip/dex-method-counts) -  Command-line tool to count per-package methods in Android .dex files.
 

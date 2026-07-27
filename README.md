@@ -94,6 +94,8 @@ our fast and hassle-free environment.
 
 - [APK method count](http://inloop.github.io/apk-method-count/) - output per-package method counts.  
 
+- [AppRankly](https://github.com/zmsp/AppRankly) - Open-source, self-hosted Google Play Console analytics dashboard and ASO keyword audit tool.
+
 - [dryrun](https://github.com/cesarferreira/dryrun) - Quickly try the demo project of any Android Library
 
 ## CI (Continuous Integration)

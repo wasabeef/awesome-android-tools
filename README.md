@@ -80,6 +80,10 @@ our fast and hassle-free environment.
 
 - [Android Lint Summary](https://github.com/passy/android-lint-summary) - View your Android lint issues with style.
 
+## Testing & Automation
+
+- [Ghost in the Droid](https://github.com/ghost-in-the-droid/android-agent) - Python MCP server exposing 62 ADB/WebDriverAgent tools for AI-driven Android and iOS test automation. Gives any MCP client (Claude, Cursor, Codex, etc.) programmatic control over real physical devices and emulators. `pip install ghost-in-the-droid`
+
 ## GUI Tool
 - [Android tool for mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, APK installations for Android phones and smartwatches connected to your Mac.
 

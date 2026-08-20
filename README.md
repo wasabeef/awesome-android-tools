@@ -81,6 +81,8 @@ our fast and hassle-free environment.
 - [Android Lint Summary](https://github.com/passy/android-lint-summary) - View your Android lint issues with style.
 
 ## GUI Tool
+- [Android Everything](https://github.com/luli395/android_everything) - Search Android device files from Windows through ADB using a local SQLite/FTS5 index.
+
 - [Android tool for mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, APK installations for Android phones and smartwatches connected to your Mac.
 
 - [Telecine](https://github.com/JakeWharton/Telecine) - Record full-resolution video on your Android devices.

@@ -69,6 +69,8 @@ our fast and hassle-free environment.
 
 - [Apptize](https://appetize.io/) - Stream iOS & Android Simulators in the Browser
 
+- [Ramus](https://ramus.dev/) - Disposable Android emulators in the browser: upload an APK, tap through it, share a watch link with a reviewer, or drive the device from a CLI, an MCP server or a coding agent.
+
 ## CLI Tool
 - [dex-method-counts](https://github.com/mihaip/dex-method-counts) -  Command-line tool to count per-package methods in Android .dex files.
 
@@ -96,6 +98,7 @@ our fast and hassle-free environment.
 
 - [dryrun](https://github.com/cesarferreira/dryrun) - Quickly try the demo project of any Android Library
 
+- [Ramus](https://ramus.dev/products/github-previews) - Builds Android pull requests (Expo, React Native, Flutter, Gradle) and posts a preview link on GitHub so reviewers can run the app in their browser.
 ## CI (Continuous Integration)
 
 - [Travis CI](https://travis-ci.org/)
